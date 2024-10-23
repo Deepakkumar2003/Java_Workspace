@@ -1,0 +1,11 @@
+package src.com.jsp.pack1;
+
+public class AB {
+
+	public static void main(String[] args) {
+		System.out.println("TT");
+		// TODO Auto-generated method stub
+
+	}
+
+}

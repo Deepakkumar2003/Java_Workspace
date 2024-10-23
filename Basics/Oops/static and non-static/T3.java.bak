@@ -1,0 +1,15 @@
+class A
+{
+	static int i=45;
+}
+
+class T3
+{
+	public static void main(String[] args) 
+	{
+		System.out.println(A.i);
+		System.out.println(new A().i);
+		A a=new A();
+		System.out.println(a.i);
+	}
+}

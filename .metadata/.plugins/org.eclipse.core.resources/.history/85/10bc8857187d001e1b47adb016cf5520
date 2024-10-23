@@ -1,0 +1,21 @@
+package java.com.arrayww;
+
+
+
+public class charreverse {
+
+	public static void main(String[] args) {
+	
+		int [] a=new int[26];
+		for(char i='A'; i<='Z'; i++) {
+			
+		}
+		System.out.println("____________________________");
+		for(char i=26-1; i>=0; i--) {
+			System.out.println(a[i]);
+
+	}
+
+	}
+
+}

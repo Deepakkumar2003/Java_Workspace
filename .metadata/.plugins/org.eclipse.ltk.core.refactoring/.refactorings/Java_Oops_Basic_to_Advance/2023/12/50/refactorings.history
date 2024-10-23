@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.jsp.String.minOccurance&apos; to &apos;minOccurance17&apos;&#x0D;&#x0A;- Original project: &apos;Java_Oops_Basic_to_Advance&apos;&#x0D;&#x0A;- Original element: &apos;com.jsp.String.minOccurance&apos;&#x0D;&#x0A;- Renamed element: &apos;com.jsp.String.minOccurance17&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;minOccurance&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.jsp.String{minOccurance.java[minOccurance" matchStrategy="1" name="minOccurance17" qualified="false" references="true" similarDeclarations="false" stamp="1702577102670" textual="false" version="1.0"/>
+</session>

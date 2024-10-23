@@ -1,0 +1,32 @@
+package Abstract;
+abstract class A
+{
+	abstract void m1();
+	abstract void m2();
+}
+abstract class B extends A
+{
+	@Override
+	void m1()
+	{
+		System.out.println("m1() defined");
+	}
+}
+class C extends B
+{
+	@Override
+	void m2()
+	{
+		System.out.println("m2() defined");
+	}
+}
+public class Test1abstract {
+
+	public static void main(String[] args) {
+	A a=new C();
+	a.m1();
+	a.m2();
+
+	}
+
+}

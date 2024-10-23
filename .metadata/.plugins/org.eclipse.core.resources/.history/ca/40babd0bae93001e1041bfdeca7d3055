@@ -1,0 +1,10 @@
+package com.jsp.ExceptionHandling;
+
+public class Throw5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
